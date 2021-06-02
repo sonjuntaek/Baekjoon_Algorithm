@@ -1,1 +1,1 @@
-# It's an algorithm solution on Baekjun Online Judge.
+# It's an algorithm solution on Baekjoon Online Judge.
